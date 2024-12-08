@@ -1,4 +1,4 @@
-# Linked List in C
+# Linked List in C 
 
 This project was part of a school assignment focused on understanding and implementing linked lists using the C programming language. A linked list is a data structure consisting of a collection of nodes, where each node contains a data element and a reference (or link) to the next node in the sequence.
 
